@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+I am an Endicott College graduate currently pursuing my master’s degree in Bioinformatics. My academic background has given me a strong foundation in biology, human health, data analysis, and computational methods, which I am now building upon to explore the relationship of life sciences and technology. Through my studies, I’ve developed skills in tools like R and Python for analyzing complex biological data, and I’m passionate about applying these techniques to real-world challenges such as genomics and personalized medicine. My goal is to combine my scientific knowledge with computational expertise to contribute to advancements in healthcare and biological research.
